@@ -153,14 +153,14 @@ ul { list-style: none; }
 .site-footer {
   background: var(--surface);
   border-top: 1px solid var(--border);
-  padding: 5rem 0 0;
+  padding: 3rem 0 0;
 }
 
 .footer-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: 3rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2.5rem;
 }
 
 @media (min-width: 768px) {
@@ -498,7 +498,7 @@ ul { list-style: none; }
   color: rgba(255, 255, 255, 0.6);
   font-weight: 300;
   letter-spacing: 0.05em;
-  max-width: 600px;
+  max-width: 700px;
   margin: 0 auto 3rem;
   opacity: 0;
   animation: fade-up 0.8s ease forwards 1s;
@@ -563,7 +563,7 @@ ul { list-style: none; }
 }
 
 /* ── Section Shared ── */
-.section { padding: 8rem 0; }
+.section { padding: 5rem 0; }
 .section-dark { background: rgba(30, 41, 59, 0.3); }
 .section-alt { background: var(--surface-alt); }
 
@@ -614,7 +614,7 @@ ul { list-style: none; }
   display: grid;
   grid-template-columns: 1fr;
   gap: 1.5rem;
-  margin-top: 4rem;
+  margin-top: 2.5rem;
 }
 
 @media (min-width: 768px) {
@@ -901,7 +901,7 @@ ul { list-style: none; }
 
 /* ── CTA Section ── */
 .cta-section {
-  padding: 8rem 0;
+  padding: 5rem 0;
   overflow: hidden;
 }
 
@@ -990,7 +990,7 @@ ul { list-style: none; }
 
 /* ── Page Header (inner pages) ── */
 .page-header {
-  padding: 10rem 0 5rem;
+  padding: 8rem 0 3rem;
 }
 
 .page-header h1 {
@@ -1136,7 +1136,7 @@ ul { list-style: none; }
   background: var(--surface);
   border-radius: 2.5rem;
   padding: 3rem 2rem;
-  margin-top: 4rem;
+  margin-top: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1292,7 +1292,7 @@ ul { list-style: none; }
   border-radius: 2rem;
   padding: 3rem 2rem;
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 2rem;
 }
 
 @media (min-width: 768px) {

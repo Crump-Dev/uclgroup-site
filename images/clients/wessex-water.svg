@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Water wave accent -->
+  <path d="M10 48 Q30 42 50 48 Q70 54 90 48 Q110 42 130 48 Q150 54 170 48 Q185 43 190 48" stroke="white" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <!-- Wessex Water text -->
+  <text x="100" y="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22" fill="white" text-anchor="middle" letter-spacing="2">Wessex</text>
+  <text x="100" y="42" font-family="Arial, Helvetica, sans-serif" font-weight="300" font-size="16" fill="white" text-anchor="middle" letter-spacing="3">Water</text>
+</svg>

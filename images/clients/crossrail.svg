@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Simplified roundel - the distinctive Crossrail/Elizabeth line circle -->
+  <circle cx="24" cy="30" r="15" fill="none" stroke="white" stroke-width="2"/>
+  <line x1="9" y1="30" x2="39" y2="30" stroke="white" stroke-width="6"/>
+  <circle cx="24" cy="30" r="15" fill="none" stroke="white" stroke-width="2"/>
+  <!-- Crossrail text -->
+  <text x="120" y="36" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="22" fill="white" text-anchor="middle" letter-spacing="2">Crossrail</text>
+</svg>
