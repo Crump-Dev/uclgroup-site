@@ -171,6 +171,10 @@ ul { list-style: none; }
   .footer-grid { grid-template-columns: 2fr 1fr 1fr 1.5fr; }
 }
 
+.footer-brand .logo img {
+  mix-blend-mode: lighten;
+}
+
 .footer-brand p {
   color: rgba(255, 255, 255, 0.5);
   font-weight: 300;
